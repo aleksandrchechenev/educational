@@ -1,2 +1,3 @@
-# educational
-Educational repository
+# Решенные задачи по PHP(Пример кода)  
+## Задачи:  
+1. 
