@@ -39,3 +39,8 @@
 [Посмотреть работу](traficlight.php)
 11. Найдите все года от 1 до 2030, сумма цифр которых равна 13.  
 [Посмотреть работу](yearsSum13.php)
+### Telegram Weather Bot @WeatherLatLonBot 
+Телеграм бот, котрый по геолокации присылает актуальную погоду. 
+[Посмотреть код](TelegramBot.php) 
+Weather API - https://openweathermap.org/api 
+Ссылка на бота - https://t.me/WeatherLatLonBot
