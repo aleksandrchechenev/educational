@@ -53,5 +53,6 @@
 ### Telegram Weather Bot @WeatherLatLonBot 
 Телеграм бот, который по геолокации присылает актуальную погоду.  
 [Посмотреть код](TelegramBot.php)  
+
 Weather API - https://openweathermap.org/api  
 Ссылка на бота - https://t.me/WeatherLatLonBot
